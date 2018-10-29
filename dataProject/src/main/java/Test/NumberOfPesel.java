@@ -6,10 +6,10 @@ public class NumberOfPesel {
 
     public static void main(String[] args) {
 
-        System.out.println("Podaj 1 numer pesel: ");
+        System.out.println("Podaj 1 liczbę pesel: ");
         Scanner scanner = new Scanner(System.in);
         int x1 = scanner.nextInt();
-        System.out.println("Podaj 2 numer pesel: ");
+        System.out.println("Podaj 2 liczbę pesel: ");
         Scanner scanner1 = new Scanner(System.in);
         int x2 = scanner1.nextInt();
         System.out.println("Podaj 3 numer pesel: ");
