@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e242700-083a-4f72-adf9-622e13cdbc26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/FibonacciChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/FibonacciChainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/DivideByZeroDenominatorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/FibonacciChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/src/test/java/JUnit5/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit5/src/test/java/JUnit5/FibonacciChainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spoj/src/main/java/SimpleAddition.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-806112046">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1161" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1161" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/FibonacciChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/FibonacciChainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/FibonacciChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UnsupportedOperationException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/FibonacciChain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/FibonacciChainTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="546" />
+    <option name="y" value="2" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUnit4Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUnit4Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542538334707" />
+    <property name="last_opened_file_path" value="D:/GITREPO" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.sda" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FibonacciChainTest.shouldReturnExpectedResult">
+    <configuration name="FibonacciChainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit4Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.FibonacciChainTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciChainTest.shouldReturnExpectedResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit4Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.FibonacciChainTest" />
+      <option name="METHOD_NAME" value="shouldReturnExpectedResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciChainTest.testMinusOneElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit4Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.FibonacciChainTest" />
+      <option name="METHOD_NAME" value="testMinusOneElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciChainTest.testSecondElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit4Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.FibonacciChainTest" />
+      <option name="METHOD_NAME" value="testSecondElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciChainTest.testThirdElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit4Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sda" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.FibonacciChainTest" />
+      <option name="METHOD_NAME" value="testThirdElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FibonacciChainTest.testSecondElement" />
+      <item itemvalue="JUnit.FibonacciChainTest.testThirdElement" />
+      <item itemvalue="JUnit.FibonacciChainTest.testMinusOneElement" />
+      <item itemvalue="JUnit.FibonacciChainTest" />
+      <item itemvalue="JUnit.FibonacciChainTest.shouldReturnExpectedResult" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FibonacciChainTest.shouldReturnExpectedResult" />
+        <item itemvalue="JUnit.FibonacciChainTest" />
+        <item itemvalue="JUnit.FibonacciChainTest.testMinusOneElement" />
+        <item itemvalue="JUnit.FibonacciChainTest.testSecondElement" />
+        <item itemvalue="JUnit.FibonacciChainTest.testThirdElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e242700-083a-4f72-adf9-622e13cdbc26" name="Default Changelist" comment="" />
+      <created>1542529595945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542529595945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FibonacciChainTest_testSecondElement - 2018.11.18 at 09h 52m 18s.xml">
+      <configuration name="FibonacciChainTest.testSecondElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest_testThirdElement - 2018.11.18 at 09h 53m 06s.xml">
+      <configuration name="FibonacciChainTest.testThirdElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest_testSecondElement - 2018.11.18 at 09h 53m 42s.xml">
+      <configuration name="FibonacciChainTest.testSecondElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest_testMinusOneElement - 2018.11.18 at 10h 13m 20s.xml">
+      <configuration name="FibonacciChainTest.testMinusOneElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest_testMinusOneElement - 2018.11.18 at 10h 13m 44s.xml">
+      <configuration name="FibonacciChainTest.testMinusOneElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest_testMinusOneElement - 2018.11.18 at 10h 34m 10s.xml">
+      <configuration name="FibonacciChainTest.testMinusOneElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest - 2018.11.18 at 10h 34m 26s.xml">
+      <configuration name="FibonacciChainTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest - 2018.11.18 at 10h 53m 30s.xml">
+      <configuration name="FibonacciChainTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest - 2018.11.18 at 10h 54m 01s.xml">
+      <configuration name="FibonacciChainTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciChainTest_shouldReturnExpectedResult - 2018.11.18 at 11h 45m 12s.xml">
+      <configuration name="FibonacciChainTest.shouldReturnExpectedResult" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/DivideByZeroDenominatorException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/FibonacciChainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/FibonacciChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
