@@ -2,23 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f69174f5-5591-47a6-b0cb-b48a49c49e91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JUnit4Example/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnit4Example/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnit4Example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnit4Example/src/main/java/pl/sda/FibonacciChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnit4Example/src/test/java/pl/sda/FibonacciChainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/DivideByZeroDenominatorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/FibonacciChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit5/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit5/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit5/FibonacciChainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit5/MokitoExamplesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spoj/src/main/java/SimpleAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUnit5/primeNumber/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit5/dictionary/DictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/Threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/BlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/InterruptedThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/JohnAndMargaret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/MainBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/RunnableLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/ThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/ThreadStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/ThreadStopRequested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/ThreadStopRequstedWithSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/main/java/pl/sda/TreadStopRequestedWithVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithread/src/test/java/pl/sda/JohnAndMargaretTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JUnit5/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JUnit5/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JUnit5/dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUnit5/dictionary/dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit5/MokitoExamplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit5/MokitoExamplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JUnit5/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JUnit5/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JUnit5/MokitoExamplesTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,39 +53,40 @@
     <session id="-230415468">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="4425" />
-          <entry key="txt" value="169" />
-          <entry key="xml" value="11" />
+          <entry key="java" value="6426" />
+          <entry key="txt" value="194" />
+          <entry key="xml" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4425" />
-          <entry key="PLAIN_TEXT" value="178" />
-          <entry key="XML" value="11" />
+          <entry key="JAVA" value="6426" />
+          <entry key="PLAIN_TEXT" value="203" />
+          <entry key="XML" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="26" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="26" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -81,81 +97,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1900">
-              <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/FibonacciChain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/CalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="824">
-              <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="1804">
+              <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/Dictionary.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Dictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="264">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#463#471#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="286">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/FibonacciChainTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/dictionary/DictionaryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1949">
-              <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+            <state relative-caret-position="462">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/primeNumber/PrimeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary/dictionary.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -165,9 +162,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>irst</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -180,15 +183,21 @@
         <option value="$PROJECT_DIR$/src/main/java/DivideByZeroDenominatorException.java" />
         <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/JUnit5/FibonacciChain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JUnit5/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/test/java/JUnit5/BubbleSortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/JUnit5/Person.java" />
-        <option value="$PROJECT_DIR$/src/test/java/JUnit5/MokitoExamplesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/JUnit5/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/JUnit5/FibonacciChainTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JUnit5/Dictionary.java" />
         <option value="$PROJECT_DIR$/src/main/java/JUnit5/dictionary.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/JUnit5/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JUnit5/MokitoExamplesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JUnit5/dictionary/dictionary.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JUnit5/BubbleSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JUnit5/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Dictionary.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/JUnit5/primeNumber/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JUnit5/dictionary/DictionaryTest.java" />
       </list>
     </option>
   </component>
@@ -216,8 +225,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="61" />
+    <option name="x" value="27" />
+    <option name="y" value="20" />
     <option name="width" value="1657" />
     <option name="height" value="1000" />
   </component>
@@ -229,7 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,25 +296,38 @@
             <path>
               <item name="Junit5" type="b2602c69:ProjectViewProjectNode" />
               <item name="Junit5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnit5" type="462c0819:PsiDirectoryNode" />
+              <item name="dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Junit5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Junit5" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543015526535" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543739565251" />
     <property name="last_opened_file_path" value="D:/GITREPO" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="JUnit5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TrainingSDA\Junit5\src\main\java\JUnit5\dictionary" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -320,13 +342,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dictionary">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="Dictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUnit5.Dictionary" />
+      <option name="MAIN_CLASS_NAME" value="JUnit5.dictionary.Dictionary" />
       <module name="TestExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUnit5.*" />
+          <option name="PATTERN" value="JUnit5.dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,17 +356,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciChainTest.testFifthElementReturn5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUnit5.primeNumber.PrimeNumber" />
       <module name="TestExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUnit5.*" />
+          <option name="PATTERN" value="JUnit5.primeNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JUnit5" />
-      <option name="MAIN_CLASS_NAME" value="JUnit5.FibonacciChainTest" />
-      <option name="METHOD_NAME" value="testFifthElementReturn5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryTest.groupedAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnit5.dictionary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnit5.dictionary" />
+      <option name="MAIN_CLASS_NAME" value="JUnit5.dictionary.DictionaryTest" />
+      <option name="METHOD_NAME" value="groupedAssertions" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -354,7 +389,7 @@
       <module name="TestExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUnit5.*" />
+          <option name="PATTERN" value="JUnit5.dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,29 +405,13 @@
       <module name="TestExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUnit5.*" />
+          <option name="PATTERN" value="JUnit5.dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JUnit5" />
       <option name="MAIN_CLASS_NAME" value="JUnit5.FibonacciChainTest" />
       <option name="METHOD_NAME" value="testParametrized(java.lang.Integer,java.lang.Integer)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciChainTest.testSeventhElementReturn7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUnit5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JUnit5" />
-      <option name="MAIN_CLASS_NAME" value="JUnit5.FibonacciChainTest" />
-      <option name="METHOD_NAME" value="testSeventhElementReturn7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -425,19 +444,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.Junit5 [clean]" />
-      <item itemvalue="JUnit.FibonacciChainTest.testSeventhElementReturn7" />
-      <item itemvalue="JUnit.FibonacciChainTest.testFifthElementReturn5" />
       <item itemvalue="JUnit.FibonacciChainTest.testParametrized" />
       <item itemvalue="JUnit.FibonacciChainTest.testHamcrest" />
       <item itemvalue="Application.Dictionary" />
+      <item itemvalue="JUnit.DictionaryTest.groupedAssertions" />
+      <item itemvalue="Application.PrimeNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.Dictionary" />
+        <item itemvalue="JUnit.DictionaryTest.groupedAssertions" />
         <item itemvalue="JUnit.FibonacciChainTest.testHamcrest" />
         <item itemvalue="JUnit.FibonacciChainTest.testParametrized" />
-        <item itemvalue="JUnit.FibonacciChainTest.testFifthElementReturn5" />
-        <item itemvalue="JUnit.FibonacciChainTest.testSeventhElementReturn7" />
       </list>
     </recent_temporary>
   </component>
@@ -455,9 +474,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciChainTest_testFirstElementReturn1 - 2018.11.20 at 23h 15m 07s.xml">
-      <configuration name="FibonacciChainTest.testFirstElementReturn1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest_testAdding - 2018.11.20 at 23h 15m 48s.xml">
       <configuration name="CalculatorTest.testAdding" configurationId="JUnit" />
     </history-entry>
@@ -485,18 +501,21 @@
     <history-entry file="FibonacciChainTest_testHamcrest - 2018.11.22 at 23h 18m 16s.xml">
       <configuration name="FibonacciChainTest.testHamcrest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DictionaryTest_groupedAssertions - 2018.11.30 at 21h 32m 40s.xml">
+      <configuration name="DictionaryTest.groupedAssertions" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22707888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23187633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
+      <window_info id="Learn" order="6" weight="0.32995737" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -520,6 +539,37 @@
       <window_info anchor="right" id="Key Promoter X" order="8" weight="0.32995737" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22921109" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32995737" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -532,23 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/MokitoExamplesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/DivideByZeroDenominatorException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -556,27 +589,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/BubbleSortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/FibonacciChain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        <state relative-caret-position="396">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/FibonacciChainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/FibonacciChainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1949">
-          <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+        <state relative-caret-position="1846">
+          <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -585,49 +618,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="264">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/CalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/MokitoExamplesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+        <state relative-caret-position="198">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Comparable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/FibonacciChain.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="1804">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/JUnit5/dictionary/DictionaryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/Dictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#463#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/primeNumber/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary/dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JUnit5/dictionary/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

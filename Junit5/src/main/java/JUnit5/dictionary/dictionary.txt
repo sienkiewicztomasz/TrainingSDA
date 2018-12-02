@@ -2,8 +2,10 @@ Tomasz Sienkiewicz
 Szymon Borowy
 Adam Lupinski
 Leszek Kuczynski
+Adam Kuczynski
 Michal Krysiuk
 Rafał Rogalski
 Sebastian Skrocki
 Bartek Ciborowski
 Jan Kowalski
+Jan Nowak
