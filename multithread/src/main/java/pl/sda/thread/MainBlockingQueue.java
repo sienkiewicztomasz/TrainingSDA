@@ -1,4 +1,6 @@
-package pl.sda;
+package pl.sda.thread;
+
+import pl.sda.thread.BlockingQueue;
 
 public class MainBlockingQueue {
 

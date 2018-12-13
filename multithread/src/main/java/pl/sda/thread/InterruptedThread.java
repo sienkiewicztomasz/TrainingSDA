@@ -1,26 +1,15 @@
-package pl.sda;
+package pl.sda.thread;
 
-public class ThreadStopRequstedWithSynchronized {
-
-    private static boolean stopRequsted = false;
-
-    private static synchronized void requestStop() {
-        stopRequsted = true;
-    }
-
-    private static synchronized boolean isStopRequsted() {
-        return stopRequsted;
-    }
+public class InterruptedThread {
 
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello world!!!");
         Thread t = new Thread(new Runnable() {
             @Override
             public void run() {
                 System.out.println("Zaczyna się wątek run");
                 int i = 0;
-                while (!isStopRequsted()) {
+                while (!Thread.interrupted()) {
                     System.out.println(i);
                     i++;
                 }
@@ -30,7 +19,7 @@ public class ThreadStopRequstedWithSynchronized {
         t.start();
         System.out.println("Kończę wątek");
         Thread.sleep(1000);
-        requestStop();
+        t.interrupt();
 
     }
 

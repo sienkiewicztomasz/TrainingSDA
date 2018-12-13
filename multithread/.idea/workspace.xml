@@ -2,38 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="138e1505-b0f5-437d-9954-2b7231c5660d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/dictionary/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/primeNumber/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Junit5/src/test/java/JUnit5/dictionary/DictionaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/BlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/InterruptedThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/JohnAndMargaret.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/MainBlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/RunnableLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadStopRequested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadStopRequstedWithSynchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/TreadStopRequestedWithVolatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/JohnAndMargaretTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Excel/BalanceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Excel/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/NumbersFromString/NumbersFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/PrimaryChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/detectlanguage/LanguageDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/jSoup/ChuckNorrisJokes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/jSoup/JSoupParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/smsConverter/SmsConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/smsConverter/SmsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/CallableExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/SingleThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/PrimaryCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/excelComposition/BalanceCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/excelComposition/BalanceReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/smsConverter/SmsConverterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Junit5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/dictionary/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/dictionary/dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/src/test/java/JUnit5/MokitoExamplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5/src/test/java/JUnit5/MokitoExamplesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/target/classes/JUnit5/Dictionary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/target/classes/JUnit5/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Junit5/target/test-classes/JUnit5/MokitoExamplesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5/src/main/java/JUnit5/dictionary/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Junit5/src/test/java/JUnit5/dictionary/DictionaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Junit5/src/test/java/JUnit5/dictionary/DictionaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/BlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/BlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/InterruptedThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/InterruptedThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/JohnAndMargaret.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/JohnAndMargaret.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/MainBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/MainBlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/RunnableLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/RunnableLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadStop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadStopRequested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadStopRequested.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/ThreadStopRequstedWithSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadStopRequstedWithSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/TreadStopRequestedWithVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/thread/TreadStopRequestedWithVolatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sda/JohnAndMargaretTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sda/thread/JohnAndMargaretTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,91 +54,51 @@
     <session id="1336883096">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="34" />
-          <entry key="java" value="2004" />
-          <entry key="xml" value="19" />
+          <entry key="dummy" value="97" />
+          <entry key="java" value="9516" />
+          <entry key="txt" value="48" />
+          <entry key="xml" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2004" />
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="XML" value="19" />
+          <entry key="JAVA" value="9516" />
+          <entry key="PLAIN_TEXT" value="145" />
+          <entry key="XML" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="class" value="4" />
+          <entry key="java" value="99" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="99" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/BlockingQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1452">
-              <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/MainBlockingQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2596">
-              <caret line="118" column="8" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/InterruptedThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/JohnAndMargaret.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/RunnableLambda.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -141,6 +108,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -159,7 +127,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/InterruptedThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/ThreadStopRequstedWithSynchronized.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/JohnAndMargareth.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pl/sda/JohnAndMargaretTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/BlockingQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/ThreadMain.java" />
@@ -167,6 +134,36 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/MainBlockingQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/JohnAndMargaret.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/RunnableLambda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/CallableExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/SingleThreadRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/MultiThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/ThreadRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/PrimeryCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/PrimaryCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/ExcelReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/BalanceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/Excel/BalanceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/Excel/ExcelReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/ExcelComposition/ExcelReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/PrimaryChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/excelComposition/BalanceCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/excelComposition/BalanceReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/SmsConverter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/smsConverter/SmsConverterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/smsConverter/SmsConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/detectlanguage/DetectLanguage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/detectlanguage/LanguageDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/jSoup/jSoupParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/jSoup/JSoupParser.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/jSoup/ChuckNorrisJokes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/NumbersFromString/NumbersFromString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/swing/HelloWorld.java" />
       </list>
     </option>
   </component>
@@ -189,8 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,32 +219,39 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sda" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="multithread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multithread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multithread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multithread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543742070498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544362788765" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="D:/GITREPO" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sda.smsConverter" />
+      <recent name="pl.sda.excelComposition" />
+      <recent name="pl.sda" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.sda.thread" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TrainingSDA\multithread\src\main\java\pl\sda\thread" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,13 +265,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunnableLambda">
-    <configuration name="InterruptedThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.InterruptedThread" />
+  <component name="RunManager" selected="Application.NumbersFromString">
+    <configuration name="ChuckNorrisJokes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.jSoup.ChuckNorrisJokes" />
       <module name="Threads" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.*" />
+          <option name="PATTERN" value="pl.sda.jSoup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JohnAndMargaret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.JohnAndMargaret" />
+    <configuration name="JSoupParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.jSoup.JSoupParser" />
       <module name="Threads" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.*" />
+          <option name="PATTERN" value="pl.sda.jSoup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.MainBlockingQueue" />
+    <configuration name="LanguageDetector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.detectlanguage.LanguageDetector" />
       <module name="Threads" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.*" />
+          <option name="PATTERN" value="pl.sda.detectlanguage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.RunnableLambda" />
+    <configuration name="NumbersFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.NumbersFromString.NumbersFromString" />
       <module name="Threads" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.*" />
+          <option name="PATTERN" value="pl.sda.NumbersFromString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,36 +318,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JohnAndMargaretTest.shouldDoTasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SmsConverterTest.testParameterizedConvert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Threads" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.*" />
+          <option name="PATTERN" value="pl.sda.smsConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sda" />
-      <option name="MAIN_CLASS_NAME" value="pl.sda.JohnAndMargaretTest" />
-      <option name="METHOD_NAME" value="shouldDoTasks" />
+      <option name="PACKAGE_NAME" value="pl.sda.smsConverter" />
+      <option name="MAIN_CLASS_NAME" value="pl.sda.smsConverter.SmsConverterTest" />
+      <option name="METHOD_NAME" value="testParameterizedConvert(java.lang.String,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InterruptedThread" />
-      <item itemvalue="Application.JohnAndMargaret" />
-      <item itemvalue="JUnit.JohnAndMargaretTest.shouldDoTasks" />
-      <item itemvalue="Application.MainBlockingQueue" />
-      <item itemvalue="Application.RunnableLambda" />
+      <item itemvalue="JUnit.SmsConverterTest.testParameterizedConvert" />
+      <item itemvalue="Application.LanguageDetector" />
+      <item itemvalue="Application.JSoupParser" />
+      <item itemvalue="Application.ChuckNorrisJokes" />
+      <item itemvalue="Application.NumbersFromString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunnableLambda" />
-        <item itemvalue="Application.MainBlockingQueue" />
-        <item itemvalue="JUnit.JohnAndMargaretTest.shouldDoTasks" />
-        <item itemvalue="Application.JohnAndMargaret" />
-        <item itemvalue="Application.InterruptedThread" />
+        <item itemvalue="Application.NumbersFromString" />
+        <item itemvalue="Application.ChuckNorrisJokes" />
+        <item itemvalue="Application.JSoupParser" />
+        <item itemvalue="Application.LanguageDetector" />
+        <item itemvalue="JUnit.SmsConverterTest.testParameterizedConvert" />
       </list>
     </recent_temporary>
   </component>
@@ -360,84 +362,115 @@
       <option name="presentableId" value="Default" />
       <updated>1543655114919</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercises with Tests">
+      <created>1543742052822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543742052822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercises with Threads">
+      <created>1543742120245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543742120245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercises with Threads">
+      <created>1543742127575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543742127575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JohnAndMargaretTest_shouldDoTasks - 2018.12.01 at 15h 00m 53s.xml">
-      <configuration name="JohnAndMargaretTest.shouldDoTasks" configurationId="JUnit" />
+    <history-entry file="BalanceReaderTest_read - 2018.12.08 at 12h 24m 15s.xml">
+      <configuration name="BalanceReaderTest.read" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JohnAndMargaretTest_shouldDoTasks - 2018.12.01 at 15h 02m 29s.xml">
-      <configuration name="JohnAndMargaretTest.shouldDoTasks" configurationId="JUnit" />
+    <history-entry file="BalanceReaderTest - 2018.12.08 at 14h 11m 13s.xml">
+      <configuration name="BalanceReaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JohnAndMargaretTest_shouldDoTasks - 2018.12.01 at 15h 04m 07s.xml">
-      <configuration name="JohnAndMargaretTest.shouldDoTasks" configurationId="JUnit" />
+    <history-entry file="BalanceCalculatorTest_testCalculate - 2018.12.08 at 14h 11m 13s.xml">
+      <configuration name="BalanceCalculatorTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsConverterTest_testConvert - 2018.12.08 at 14h 11m 13s.xml">
+      <configuration name="SmsConverterTest.testConvert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsConverterTest_testConvert - 2018.12.08 at 14h 17m 19s.xml">
+      <configuration name="SmsConverterTest.testConvert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsConverterTest_testConvert - 2018.12.08 at 14h 22m 40s.xml">
+      <configuration name="SmsConverterTest.testConvert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsConverterTest_testConvert - 2018.12.08 at 14h 43m 48s.xml">
+      <configuration name="SmsConverterTest.testConvert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsConverterTest_testParameterizedConvert - 2018.12.08 at 14h 43m 53s.xml">
+      <configuration name="SmsConverterTest.testParameterizedConvert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsConverterTest_testParameterizedConvert - 2018.12.08 at 14h 44m 32s.xml">
+      <configuration name="SmsConverterTest.testParameterizedConvert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsConverterTest_testParameterizedConvert - 2018.12.08 at 14h 46m 30s.xml">
+      <configuration name="SmsConverterTest.testParameterizedConvert" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" weight="0.32995737" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32995737" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Learn" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.329718" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Key Promoter X" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercises with Tests" />
+    <MESSAGE value="Exercises with Threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises with Threads" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pl/sda/excelComposition/BalanceReaderTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
@@ -447,104 +480,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/ThreadStopRequested.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/TreadStopRequestedWithVolatile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/ThreadStop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/ThreadStopRequstedWithSynchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/JohnAndMargaretTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/thread/JohnAndMargaretTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/ThreadMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/MainBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2596">
-          <caret line="118" column="8" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/InterruptedThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -559,17 +498,344 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/RunnableLambda.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="13" column="6" selection-start-line="9" selection-start-column="2" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/JohnAndMargaret.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/PrimeryCheckerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/ExcelComposition/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/InterruptedThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/CallableExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/JohnAndMargaret.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/MainBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/MultiThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/RunnableLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/SingleThreadRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadStop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadStopRequested.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/ThreadStopRequstedWithSynchronized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/thread/TreadStopRequestedWithVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/PrimaryChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/PrimaryCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/Excel/BalanceCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.1.0/junit-jupiter-api-5.1.0.jar!/org/junit/jupiter/api/Assertions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/Excel/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="1432" column="22" selection-start-line="1432" selection-start-column="22" selection-end-line="1432" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/excelComposition/BalanceReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/excelComposition/BalanceCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6931">
+          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
+          <folding>
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-991">
+          <caret line="134" column="25" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/smsConverter/SmsConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/smsConverter/SmsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar!/org/apache/commons/io/IOUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="124" column="25" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1205" column="18" selection-start-line="1205" selection-start-column="18" selection-end-line="1205" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/BalanceReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/excelComposition/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/smsConverter/SmsConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/jSoup/JSoupParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="37" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/jSoup/ChuckNorrisJokes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/detectlanguage/LanguageDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/NumbersFromString/NumbersFromString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/swing/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
         </state>
       </provider>
     </entry>

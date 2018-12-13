@@ -1,4 +1,4 @@
-package pl.sda;
+package pl.sda.thread;
 
 import java.util.LinkedList;
 

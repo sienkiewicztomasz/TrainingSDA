@@ -8,6 +8,12 @@ public class Dictionary {
 
     public static void main(String[] args) {
 
+        readFile();
+
+
+    }
+
+    private static void readFile() {
         try {
 
             File file = new File("D:\\TrainingSDA\\Junit5\\src\\main\\java\\JUnit5\\dictionary\\dictionary.txt");
@@ -22,9 +28,7 @@ public class Dictionary {
             }
             scanner.close();
 
-            Person.PersonComp Comparator = new Person.PersonComp();
-            Comparator.add(0, new Person.LastName());
-            Comparator.add(1, new Person.FirstName());
+            Person.PersonComp Comparator = getPersonComp();
 
             System.out.println("Dane nieposortowane: ");
             System.out.println("                     ");
@@ -46,8 +50,13 @@ public class Dictionary {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
+    }
 
-
+    private static Person.PersonComp getPersonComp() {
+        Person.PersonComp Comparator = new Person.PersonComp();
+        Comparator.add(0, new Person.LastName());
+        Comparator.add(1, new Person.FirstName());
+        return Comparator;
     }
 }
 

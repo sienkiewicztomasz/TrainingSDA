@@ -1,4 +1,4 @@
-package pl.sda;
+package pl.sda.thread;
 
 public class TreadStopRequestedWithVolatile {
 

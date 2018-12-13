@@ -1,7 +1,9 @@
-package pl.sda;
+package pl.sda.thread;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
+import pl.sda.thread.JohnAndMargaret;
+
 import java.io.PrintStream;
 
 public class JohnAndMargaretTest {
