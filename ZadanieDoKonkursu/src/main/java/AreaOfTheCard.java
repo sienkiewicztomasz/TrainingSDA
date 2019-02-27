@@ -16,18 +16,31 @@ public class AreaOfTheCard {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        for (int i = 0; i < 1000; i++) {
 
+        List<Integer> surfaceAreas = new ArrayList<>();
+
+        for (int i = 0; i < 1000; i++) {
 
             String z = scanner.nextLine();
             z = z.replaceAll("x", " ");
             List<String> list = Arrays.asList(z.trim().split(" "));
             List<Integer> list1 = list.stream().map(Integer::parseInt).collect(Collectors.toList());
             Collections.sort(list1);
-            int sum = 3 * list1.get(0) * list1.get(1) + 2 * list1.get(0) * list1.get(2) + 2 * list1.get(1) * list1.get(2);
-            System.out.println(sum);
-
+            int surfaceArea = 3 * list1.get(0) * list1.get(1) + 2 * list1.get(0) * list1.get(2) + 2 * list1.get(1) * list1.get(2);
+            //  System.out.println(surfaceArea);
+            surfaceAreas.add(surfaceArea);
 
         }
+
+        int sum = 0;
+
+        for (int i = 0; i < surfaceAreas.size(); i++) {
+
+            sum = sum + surfaceAreas.get(i);
+
+        }
+
+        System.out.println("Ilość papieru potrzebnego do owinięcia pudełek wynosi: " + sum + " dm2.");
+
     }
 }
